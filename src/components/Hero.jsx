@@ -1,5 +1,7 @@
 const Hero = ({
+    // eslint-disable-next-line react/prop-types
     title = 'Become a React Dev',
+    // eslint-disable-next-line react/prop-types
     subtitle = 'Find the React job that fits your skill set',
   }) => {
     return (
