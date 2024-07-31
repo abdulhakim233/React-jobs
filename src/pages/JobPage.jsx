@@ -19,4 +19,4 @@ const JobPage = () => {
    }; 
 
 
-export  { as default ,jobLoader};
+export  { JobPage as default ,jobLoader};
