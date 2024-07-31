@@ -1,8 +1,11 @@
-# React + Vite
+           
+        # React-jobs Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+   This project was developed as part of a learning journey through a YouTube tutorial by Traversy Media. The goal was to get hands-on experience with the basics of React.js such as components, state, props, and other .It serves as a foundational project for those looking to get started with React.js.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+Acknowledgements
+Traversy Media for the amazing tutorial series on React.js.
+React for providing an excellent library for building user interfaces.
