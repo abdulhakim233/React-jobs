@@ -51,4 +51,4 @@ let description= job.description;
   )
 }
 
-export default JobListing
+export default JobListing;
